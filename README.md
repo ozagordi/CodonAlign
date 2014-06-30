@@ -13,6 +13,7 @@ writing a wrapper in python for the core program `codonalign`.
 It needs python (2.7) and perl. Only Biopython is needed as external dependency
 (though it would be easy to do without). Running `ca_wrapper -h` gives the
 usual help
+
 	[user@host CodonAlign]$ ca_wrapper.py -h
 	usage: ca_wrapper.py [-h] [-f FILENAME] [-r FRAME] [-s FS_COMP]
 
